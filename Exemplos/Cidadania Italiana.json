@@ -1,0 +1,436 @@
+{
+  "Nodes": [
+    {
+      "Id": "INICIO",
+      "Position": {
+        "IsEmpty": false,
+        "X": -184,
+        "Y": 0
+      },
+      "Label": "In\u00EDcio",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "FIM",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1370,
+        "Y": 0
+      },
+      "Label": "Fim",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "1",
+      "Position": {
+        "IsEmpty": false,
+        "X": -58,
+        "Y": 0
+      },
+      "Label": "Reuni\u00E3o de Documentos",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "2",
+      "Position": {
+        "IsEmpty": false,
+        "X": 104,
+        "Y": 0
+      },
+      "Label": "Tradu\u00E7\u00E3o e Apostilamento",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "3",
+      "Position": {
+        "IsEmpty": false,
+        "X": 241,
+        "Y": 1
+      },
+      "Label": "Montagem da Pasta",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "4",
+      "Position": {
+        "IsEmpty": false,
+        "X": 400,
+        "Y": 0
+      },
+      "Label": "Escolha do Tipo de Processo",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": true,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "5",
+      "Position": {
+        "IsEmpty": false,
+        "X": 400,
+        "Y": -150
+      },
+      "Label": "Judicial",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "6",
+      "Position": {
+        "IsEmpty": false,
+        "X": 527,
+        "Y": -151
+      },
+      "Label": "Protocolo",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "7",
+      "Position": {
+        "IsEmpty": false,
+        "X": 653,
+        "Y": -151
+      },
+      "Label": "Acompanhamento Online",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "8",
+      "Position": {
+        "IsEmpty": false,
+        "X": 768,
+        "Y": -151
+      },
+      "Label": "Audi\u00EAncia",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "9",
+      "Position": {
+        "IsEmpty": false,
+        "X": 891,
+        "Y": -152
+      },
+      "Label": "Senten\u00E7a e Tr\u00E2nsito em Julgado",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "10",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1030,
+        "Y": -152
+      },
+      "Label": "Certid\u00E3o Transcrita",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "11",
+      "Position": {
+        "IsEmpty": false,
+        "X": 519,
+        "Y": 0
+      },
+      "Label": "Administrativo",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "12",
+      "Position": {
+        "IsEmpty": false,
+        "X": 642,
+        "Y": 1
+      },
+      "Label": "Fixar Resid\u00EAncia na It\u00E1lia",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "13",
+      "Position": {
+        "IsEmpty": false,
+        "X": 775,
+        "Y": -1
+      },
+      "Label": "Iniciar Processo",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "14",
+      "Position": {
+        "IsEmpty": false,
+        "X": 898,
+        "Y": -1
+      },
+      "Label": "Protocolo",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "15",
+      "Position": {
+        "IsEmpty": false,
+        "X": 399,
+        "Y": 196
+      },
+      "Label": "Consular",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "16",
+      "Position": {
+        "IsEmpty": false,
+        "X": 723,
+        "Y": 195
+      },
+      "Label": "Apresentar Documentos ao Consulado",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "17",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1032,
+        "Y": 195
+      },
+      "Label": "Fila de Espera",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "18",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1031,
+        "Y": 0
+      },
+      "Label": "Cadastro no AIRE",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "19",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1191,
+        "Y": -1
+      },
+      "Label": "Emiss\u00E3o do Passaporte",
+      "Description": null,
+      "color": "#add8e6",
+      "IsDecisionPoint": false,
+      "AIPromptID": null,
+      "BaseID": null
+    }
+  ],
+  "Edges": [
+    {
+      "IDToNode": "1",
+      "IDFromNode": "INICIO",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "2",
+      "IDFromNode": "1",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "3",
+      "IDFromNode": "2",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "4",
+      "IDFromNode": "3",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "5",
+      "IDFromNode": "4",
+      "Activity": "Judicial",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "6",
+      "IDFromNode": "5",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "7",
+      "IDFromNode": "6",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "8",
+      "IDFromNode": "7",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "9",
+      "IDFromNode": "8",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "10",
+      "IDFromNode": "9",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "18",
+      "IDFromNode": "10",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "11",
+      "IDFromNode": "4",
+      "Activity": "Administrativo",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "12",
+      "IDFromNode": "11",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "13",
+      "IDFromNode": "12",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "14",
+      "IDFromNode": "13",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "18",
+      "IDFromNode": "14",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "15",
+      "IDFromNode": "4",
+      "Activity": "Consular",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "16",
+      "IDFromNode": "15",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "17",
+      "IDFromNode": "16",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "18",
+      "IDFromNode": "17",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "19",
+      "IDFromNode": "18",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "FIM",
+      "IDFromNode": "19",
+      "Activity": null,
+      "Color": "#000000"
+    }
+  ],
+  "AIPrompts": [],
+  "Bases": [],
+  "AIModel": 0,
+  "apiKey": null
+}

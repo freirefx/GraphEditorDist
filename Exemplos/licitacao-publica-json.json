@@ -1,0 +1,520 @@
+{
+  "Nodes": [
+    {
+      "Id": "A",
+      "Position": {
+        "IsEmpty": false,
+        "X": 47,
+        "Y": 160
+      },
+      "Label": "DOD",
+      "Description": "Documento de Oficializa\u00E7\u00E3o da Demanda",
+      "color": "#ff9999",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "B",
+      "Position": {
+        "IsEmpty": false,
+        "X": 175,
+        "Y": 160
+      },
+      "Label": "Estudos T\u00E9cnicos",
+      "Description": "Elabora\u00E7\u00E3o de estudos t\u00E9cnicos preliminares",
+      "color": "#ffcc99",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "C",
+      "Position": {
+        "IsEmpty": false,
+        "X": 318,
+        "Y": 160
+      },
+      "Label": "Termo de Refer\u00EAncia",
+      "Description": "Elabora\u00E7\u00E3o do Termo de Refer\u00EAncia",
+      "color": "#ffff99",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "D",
+      "Position": {
+        "IsEmpty": false,
+        "X": 444,
+        "Y": 159
+      },
+      "Label": "Pesquisa de Pre\u00E7os",
+      "Description": "Realiza\u00E7\u00E3o de pesquisa de pre\u00E7os",
+      "color": "#ccff99",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "E",
+      "Position": {
+        "IsEmpty": false,
+        "X": 591,
+        "Y": 158
+      },
+      "Label": "Elabora\u00E7\u00E3o do Edital",
+      "Description": "Prepara\u00E7\u00E3o do edital de licita\u00E7\u00E3o",
+      "color": "#99ff99",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "F",
+      "Position": {
+        "IsEmpty": false,
+        "X": 705,
+        "Y": 307
+      },
+      "Label": "Parecer Jur\u00EDdico",
+      "Description": "Obten\u00E7\u00E3o de parecer jur\u00EDdico",
+      "color": "#99ffcc",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "G",
+      "Position": {
+        "IsEmpty": false,
+        "X": 590,
+        "Y": 470
+      },
+      "Label": "Parecer Favor\u00E1vel?",
+      "Description": "Decis\u00E3o sobre o parecer jur\u00EDdico",
+      "color": "#99ffff",
+      "Type": 1,
+      "AIPromptID": "",
+      "BaseID": ""
+    },
+    {
+      "Id": "H",
+      "Position": {
+        "IsEmpty": false,
+        "X": 824,
+        "Y": 471
+      },
+      "Label": "Publica\u00E7\u00E3o do Aviso",
+      "Description": "Publica\u00E7\u00E3o do aviso de licita\u00E7\u00E3o",
+      "color": "#99ccff",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "I",
+      "Position": {
+        "IsEmpty": false,
+        "X": 983,
+        "Y": 473
+      },
+      "Label": "Impugna\u00E7\u00F5es e Esclarecimentos",
+      "Description": "Per\u00EDodo para impugna\u00E7\u00F5es e esclarecimentos",
+      "color": "#9999ff",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "J",
+      "Position": {
+        "IsEmpty": false,
+        "X": 982,
+        "Y": 159
+      },
+      "Label": "Impugna\u00E7\u00E3o Aceita?",
+      "Description": "Decis\u00E3o sobre aceita\u00E7\u00E3o de impugna\u00E7\u00F5es",
+      "color": "#cc99ff",
+      "Type": 1,
+      "AIPromptID": "",
+      "BaseID": ""
+    },
+    {
+      "Id": "K",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1110,
+        "Y": 158
+      },
+      "Label": "Abertura da Sess\u00E3o",
+      "Description": "In\u00EDcio da sess\u00E3o de licita\u00E7\u00E3o",
+      "color": "#ff99ff",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "L",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1225,
+        "Y": 157
+      },
+      "Label": "Fase de Lances",
+      "Description": "Per\u00EDodo para apresenta\u00E7\u00E3o de lances",
+      "color": "#ff99cc",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "M",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1337,
+        "Y": 46
+      },
+      "Label": "Julgamento das Propostas",
+      "Description": "Avalia\u00E7\u00E3o das propostas apresentadas",
+      "color": "#ff9999",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "N",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1457,
+        "Y": 157
+      },
+      "Label": "Proposta Aceit\u00E1vel?",
+      "Description": "Decis\u00E3o sobre aceitabilidade da proposta",
+      "color": "#ffcc99",
+      "Type": 1,
+      "AIPromptID": "",
+      "BaseID": ""
+    },
+    {
+      "Id": "O",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1600,
+        "Y": 158
+      },
+      "Label": "Habilita\u00E7\u00E3o",
+      "Description": "Verifica\u00E7\u00E3o da habilita\u00E7\u00E3o do licitante",
+      "color": "#ffff99",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "P",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1344,
+        "Y": 363
+      },
+      "Label": "Licitante Habilitado?",
+      "Description": "Decis\u00E3o sobre habilita\u00E7\u00E3o do licitante",
+      "color": "#ccff99",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "Q",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1344,
+        "Y": 532
+      },
+      "Label": "Fase Recursal",
+      "Description": "Per\u00EDodo para apresenta\u00E7\u00E3o de recursos",
+      "color": "#99ff99",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "R",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1343,
+        "Y": 762
+      },
+      "Label": "Recurso Apresentado?",
+      "Description": "Verifica\u00E7\u00E3o da exist\u00EAncia de recursos",
+      "color": "#99ffcc",
+      "Type": 1,
+      "AIPromptID": "",
+      "BaseID": ""
+    },
+    {
+      "Id": "S",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1500,
+        "Y": 763
+      },
+      "Label": "An\u00E1lise do Recurso",
+      "Description": "Avalia\u00E7\u00E3o dos recursos apresentados",
+      "color": "#99ffff",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "T",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1416,
+        "Y": 658
+      },
+      "Label": "Adjudica\u00E7\u00E3o",
+      "Description": "Adjudica\u00E7\u00E3o do objeto da licita\u00E7\u00E3o",
+      "color": "#99ccff",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "U",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1618,
+        "Y": 658
+      },
+      "Label": "Homologa\u00E7\u00E3o",
+      "Description": "Homologa\u00E7\u00E3o do processo licitat\u00F3rio",
+      "color": "#9999ff",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "V",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1765,
+        "Y": 659
+      },
+      "Label": "Assinatura do Contrato",
+      "Description": "Formaliza\u00E7\u00E3o do contrato",
+      "color": "#cc99ff",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "INICIO",
+      "Position": {
+        "IsEmpty": false,
+        "X": -88,
+        "Y": 159
+      },
+      "Label": "In\u00EDcio",
+      "Description": null,
+      "color": "#ADD8E6",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    },
+    {
+      "Id": "FIM",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1878,
+        "Y": 659
+      },
+      "Label": "Fim",
+      "Description": null,
+      "color": "#ADD8E6",
+      "Type": 0,
+      "AIPromptID": null,
+      "BaseID": null
+    }
+  ],
+  "Edges": [
+    {
+      "IDToNode": "B",
+      "IDFromNode": "A",
+      "Activity": "In\u00EDcio",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "C",
+      "IDFromNode": "B",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "D",
+      "IDFromNode": "C",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "E",
+      "IDFromNode": "D",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "F",
+      "IDFromNode": "E",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "G",
+      "IDFromNode": "F",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "E",
+      "IDFromNode": "G",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "H",
+      "IDFromNode": "G",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "I",
+      "IDFromNode": "H",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "J",
+      "IDFromNode": "I",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "E",
+      "IDFromNode": "J",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "K",
+      "IDFromNode": "J",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "L",
+      "IDFromNode": "K",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "M",
+      "IDFromNode": "L",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "N",
+      "IDFromNode": "M",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "L",
+      "IDFromNode": "N",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "O",
+      "IDFromNode": "N",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "P",
+      "IDFromNode": "O",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "L",
+      "IDFromNode": "P",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "Q",
+      "IDFromNode": "P",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "R",
+      "IDFromNode": "Q",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "S",
+      "IDFromNode": "R",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "T",
+      "IDFromNode": "R",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "T",
+      "IDFromNode": "S",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "U",
+      "IDFromNode": "T",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "V",
+      "IDFromNode": "U",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "FIM",
+      "IDFromNode": "V",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "A",
+      "IDFromNode": "INICIO",
+      "Activity": null,
+      "Color": "#000000"
+    }
+  ],
+  "AIPrompts": [],
+  "Bases": [
+    {
+      "Id": "licitacao-base",
+      "Name": "Processo de Licita\u00E7\u00E3o P\u00FAblica no Brasil",
+      "Content": "O processo de licita\u00E7\u00E3o p\u00FAblica no Brasil \u00E9 regulamentado principalmente pela Lei 8.666/93 e pela Lei 10.520/02 (Lei do Preg\u00E3o). O fluxo b\u00E1sico inclui as seguintes etapas:\n\n1. Documento de Oficializa\u00E7\u00E3o da Demanda (DOD)\n2. Estudos T\u00E9cnicos Preliminares\n3. Elabora\u00E7\u00E3o do Termo de Refer\u00EAncia\n4. Pesquisa de Pre\u00E7os\n5. Elabora\u00E7\u00E3o do Edital\n6. Parecer Jur\u00EDdico\n7. Publica\u00E7\u00E3o do Aviso de Licita\u00E7\u00E3o\n8. Per\u00EDodo para Impugna\u00E7\u00F5es e Esclarecimentos\n9. Abertura da Sess\u00E3o P\u00FAblica\n10. Fase de Lances (no caso de Preg\u00E3o)\n11. Julgamento das Propostas\n12. Habilita\u00E7\u00E3o\n13. Fase Recursal\n14. Adjudica\u00E7\u00E3o\n15. Homologa\u00E7\u00E3o\n16. Assinatura do Contrato\n\nO processo pode variar dependendo da modalidade de licita\u00E7\u00E3o escolhida (Concorr\u00EAncia, Tomada de Pre\u00E7os, Convite, Concurso, Leil\u00E3o ou Preg\u00E3o) e do tipo de licita\u00E7\u00E3o (Menor Pre\u00E7o, Melhor T\u00E9cnica, T\u00E9cnica e Pre\u00E7o ou Maior Lance ou Oferta)."
+    }
+  ],
+  "AIModel": 0,
+  "apiKey": null
+}

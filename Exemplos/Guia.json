@@ -1,0 +1,362 @@
+{
+  "Nodes": [
+    {
+      "Id": "B",
+      "Position": {
+        "IsEmpty": false,
+        "X": -50,
+        "Y": -29
+      },
+      "Label": "Requerimento GU\u003Cbr\u003EArt. 104",
+      "Description": "",
+      "color": "#90ee90",
+      "Type": 0,
+      "AIPromptID": "XwzjneqyFzaj",
+      "Bases": [
+        {
+          "Id": "Bl3hv5jX3JEg",
+          "Name": "RESOLU\u00C7\u00C3O N\u00BA 37, DE 4 DE JUNHO DE 2020",
+          "Content": "MINIST\u00C9RIO DE MINAS E ENERGIA\r\n\r\nAG\u00CANCIA NACIONAL DE MINERA\u00C7\u00C3O\r\n\r\nRESOLU\u00C7\u00C3O N\u00BA 37, DE 4 DE JUNHO DE 2020\r\n\r\nAltera os artigos 102 ao 122 da Portaria n\u00BA 155/2016, que disciplinam a emiss\u00E3o da Guia de Utiliza\u00E7\u00E3o - GU.\r\n\r\nA DIRETORIA COLEGIADA DA AG\u00CANCIA NACIONAL DE MINERA\u00C7\u00C3O - ANM, no exerc\u00EDcio das compet\u00EAncias que lhe foram outorgadas pelos incisos XII e XXVIII do art. 2\u00BA, e pelo inciso II do \u00A7 1\u00BA, do art. 11 da Lei n\u00BA 13.575, de 26 de dezembro de 2017, pela al\u00EDnea \u0022a\u0022 do inciso XII, pelo inciso XXVIII do art. 2\u00BA e pelo inciso II do art. 9\u00BA da Estrutura Regimental da ANM, aprovada na forma do Anexo I do Decreto n\u00BA 9.587, de 27 de novembro de 2018, resolve:\r\n\r\nArt. 1\u00BA Os artigos 102 ao 122 da Portaria n\u00BA 155, de 12 de maio de 2016, passam a vigorar com a seguinte reda\u00E7\u00E3o:\r\n\r\n\u0022SE\u00C7\u00C3O VII\r\n\r\nDA GUIA DE UTILIZA\u00C7\u00C3O\r\n\r\nArt. 102. A extra\u00E7\u00E3o mineral em \u00E1rea titulada poder\u00E1 ser autorizada, em car\u00E1ter excepcional, antes da outorga da concess\u00E3o de lavra, mediante a emiss\u00E3o de Guia de Utiliza\u00E7\u00E3o - GU pela ANM, nos termos dos artigos 22, \u00A7 2\u00BA, do Decreto Lei n\u00BA 227/1967, e 24 do Decreto n\u00BA 9.406/2018, bem como observando-se o disposto neste cap\u00EDtulo e Anexos III e IV.\r\n\r\n\u00A7 1\u00BA Para efeito de emiss\u00E3o da GU ser\u00E3o consideradas como excepcionais as seguintes situa\u00E7\u00F5es:\r\n\r\nI - aferi\u00E7\u00E3o da viabilidade t\u00E9cnico-econ\u00F4mica da lavra de subst\u00E2ncias minerais no mercado nacional e/ou internacional;\r\n\r\nII - a extra\u00E7\u00E3o de subst\u00E2ncias minerais para an\u00E1lise e ensaios industriais antes da outorga da concess\u00E3o de lavra; e\r\n\r\nIII - a comercializa\u00E7\u00E3o de subst\u00E2ncias minerais, a crit\u00E9rio da ANM, de acordo com as pol\u00EDticas p\u00FAblicas, antes da outorga de concess\u00E3o de lavra.\r\n\r\n\u00A7 2\u00BA Quando da an\u00E1lise do pedido de GU na forma do disposto no inciso III do \u00A7 1\u00BA, ser\u00E3o consideradas para efeito de pol\u00EDticas p\u00FAblicas, as seguintes condi\u00E7\u00F5es das \u00E1reas:\r\n\r\nI - Em situa\u00E7\u00E3o de formaliza\u00E7\u00E3o da atividade e fortalecimento das Micro e Pequenas Empresas, de acordo com os objetivos estrat\u00E9gicos do Plano Nacional de Minera\u00E7\u00E3o - 2030;\r\n\r\nII - Que visarem a promo\u00E7\u00E3o do desenvolvimento da pequena e m\u00E9dia minera\u00E7\u00E3o por meio de a\u00E7\u00F5es de extensionismo mineral, formaliza\u00E7\u00E3o, cooperativismo e arranjos produtivos locais;\r\n\r\nIII - Que se destinarem \u00E0 pesquisa dos minerais estrat\u00E9gicos (abundantes, carentes e portadores de futuro) de acordo com os objetivos do Plano Nacional de Minera\u00E7\u00E3o - 2030;\r\n\r\nIV - Que visarem a garantia da oferta de insumos para obras civis de infraestrutura, para o desenvolvimento agr\u00EDcola e da constru\u00E7\u00E3o civil;\r\n\r\nV - Com investimentos em setores relevantes para a Balan\u00E7a Comercial Brasileira, contendo subst\u00E2ncia necess\u00E1rias ao desenvolvimento local e regional;\r\n\r\nVI - Com projetos que promovam a diversifica\u00E7\u00E3o da pauta de exporta\u00E7\u00E3o brasileira e o fortalecimento de m\u00E9dias empresas visando a conquista do mercado internacional. Contribuindo para o super\u00E1vit da balan\u00E7a comercial. (Reda\u00E7\u00E3o dada pela PORTARIA N\u00BA 256, DE 5 DE AGOSTO DE 2016, DOU de 08/08/2016)\r\n\r\nArt. 103. A GU ser\u00E1 emitida para as subst\u00E2ncias minerais constantes da tabela do Anexo IV, observadas as quantidades m\u00E1ximas nela especificadas.\r\n\r\nPar\u00E1grafo \u00FAnico. A crit\u00E9rio da Diretoria Colegiada da ANM poder\u00E1 ser concedida GU para outras subst\u00E2ncias n\u00E3o relacionadas na tabela de que trata o caput.\r\n\r\nREQUERIMENTO\r\n\r\nArt. 104. A GU ser\u00E1 pleiteada pelo titular do direito miner\u00E1rio em requerimento a ser protocolizado na ANM observado o disposto no art. 16, II, \u0022g\u0022, devendo conter os seguintes elementos:\r\n\r\nI - declara\u00E7\u00E3o com justificativa t\u00E9cnica e econ\u00F4mica, elaborada e assinada por profissional legalmente habilitado e descrevendo, no m\u00EDnimo, os dep\u00F3sitos potencialmente existentes ou pass\u00EDveis de estimativa, a extens\u00E3o das respectivas \u00E1reas, as opera\u00E7\u00F5es de decapeamento, desmonte, carregamento, transporte, beneficiamento, se for o caso, sistema de disposi\u00E7\u00E3o de materiais e as medidas de controle ambiental, reabilita\u00E7\u00E3o da \u00E1rea minerada e as de prote\u00E7\u00E3o \u00E0 seguran\u00E7a e \u00E0 sa\u00FAde do trabalhador;\r\n\r\nII - indica\u00E7\u00E3o da quantidade de cada subst\u00E2ncia mineral a ser extra\u00EDda, bem como do prazo de validade pleiteado para a GU, observado o que disp\u00F5e o art. 24 do Decreto n\u00BA 9.406/2018;\r\n\r\nIII - mapas, plantas, fotografias e imagens, demonstrando a situa\u00E7\u00E3o atual da \u00E1rea e seu entorno (mapas de uso do solo, geologia, drenagem, limites municipais, edifica\u00E7\u00F5es, unidades protegidas e/ou com restri\u00E7\u00F5es, cartas planialtim\u00E9tricas, modelo digital de terreno e imagens digitais de sat\u00E9lite, radar ou a\u00E9rea com alta resolu\u00E7\u00E3o); e\r\n\r\nIV - comprovante de pagamento dos respectivos emolumentos no valor fixado no Anexo II.\r\n\r\n\u00A7 1\u00BA Os emolumentos recolhidos para o processamento do pedido de guia de utiliza\u00E7\u00E3o n\u00E3o ser\u00E3o devolvidos.\r\n\r\n\u00A7 2\u00BA Para atendimento do requisito do inciso III, a planta dever\u00E1 ser topogr\u00E1fica, em escala apropriada, de no m\u00EDnimo 1:1.000.\r\n\r\n\u00A7 3\u00BA Os documentos descritos no inciso III do caput devem estar padronizados conforme as normas da ABNT, apresentados em escala de detalhe para uma caracteriza\u00E7\u00E3o detalhada do empreendimento e serem entregues georreferenciados a um sistema de coordenadas geogr\u00E1ficas ou sistema de proje\u00E7\u00E3o Universal Transversal de Mercator (UTM), referenciados ao datum oficial do Brasil - SIRGAS 2000.\r\n\r\n\u00A7 4\u00BA Os dados vetoriais devem ser entregues nos formatos DXF e SHP, e as imagens raster devem ser georreferenciadas e apresentadas no formato GeoTIFF.\r\n\r\n\u00A7 5\u00BA Os dados digitais dever\u00E3o ser compat\u00EDveis para serem visualizados em ambiente de Sistema de Informa\u00E7\u00E3o Geogr\u00E1fica (SIG) e/ou Computed Aided Design (CAD).\r\n\r\n\u00A7 6\u00BA \u00C9 admitida a extra\u00E7\u00E3o de uma ou mais subst\u00E2ncias na mesma GU.\r\n\r\nAN\u00C1LISE E DECIS\u00C3O\r\n\r\nArt. 105. A emiss\u00E3o da GU constituir\u00E1 ato administrativo vinculado ao cumprimento dos seguintes requisitos:\r\n\r\nI - apresentar o rol de documentos de que trata o art. 104 quando da formula\u00E7\u00E3o do requerimento;\r\n\r\nII - estiver com a taxa anual por hectare devidamente quitada;\r\n\r\nIII - estiver em situa\u00E7\u00E3o de regularidade em rela\u00E7\u00E3o ao processo miner\u00E1rio, n\u00E3o tendo incorrido em nenhuma das causas de caducidade estabelecidas pela legisla\u00E7\u00E3o miner\u00E1ria, ainda que n\u00E3o tenham sido formalmente declaradas nos autos, mas que j\u00E1 sejam de poss\u00EDvel constata\u00E7\u00E3o; e\r\n\r\nIV - n\u00E3o ter realizado lavra ilegal previamente ao requerimento da GU.\r\n\r\n\u00A7 1\u00BA Para os requerimentos de GU que atenderem aos requisitos estabelecidos pelo caput deste artigo, o servidor respons\u00E1vel sugerir\u00E1 em parecer t\u00E9cnico o deferimento do pleito, encaminhando-se em seguida o processo \u00E0 autoridade competente para decis\u00E3o e publica\u00E7\u00E3o.\r\n\r\n\u00A7 2\u00BA Para os requerimentos de GU que atenderem aos requisitos estabelecidos pelo caput deste artigo, por\u00E9m com pedidos em volumes acima do permitido na tabela do Anexo IV, o servidor respons\u00E1vel sugerir\u00E1 em parecer t\u00E9cnico a adequa\u00E7\u00E3o dos volumes m\u00E1ximos a serem extra\u00EDdos, encaminhando-se em seguida o processo \u00E0 autoridade competente para decis\u00E3o e publica\u00E7\u00E3o.\r\n\r\n\u00A7 3\u00BA O servidor respons\u00E1vel ter\u00E1, antes do parecer t\u00E9cnico, uma \u00FAnica oportunidade para, motivadamente, solicitar dados ou proje\u00E7\u00F5es adicionais, observando-se o disposto no art. 104.\r\n\r\n\u00A7 4\u00BA A qualquer momento a partir da emiss\u00E3o da GU, o seu cumprimento poder\u00E1 ser objeto de a\u00E7\u00E3o fiscalizat\u00F3ria pela ANM.\r\n\r\nArt. 106. REVOGADO.\r\n\r\nArt. 107. A efic\u00E1cia da GU ficar\u00E1 condicionada \u00E0 obten\u00E7\u00E3o de licen\u00E7a ambiental ou documento equivalente.\r\n\r\n\u00A7 1\u00BA A licen\u00E7a ambiental ou documento equivalente dever\u00E1:\r\n\r\nI - mencionar a(s) subst\u00E2ncia(s) contempladas pela GU;\r\n\r\nII - estar no nome do titular da Guia; e\r\n\r\nIII - ter validade compat\u00EDvel com a GU.\r\n\r\n\u00A7 2\u00BA O in\u00EDcio da vig\u00EAncia da GU coincidir\u00E1 com a data de outorga do licenciamento.\r\n\r\n\u00A7 3\u00BA O titular da GU dever\u00E1 apresentar \u00E0 ANM a licen\u00E7a ambiental ou documento equivalente dentro de 10 (dez) dias, contados a partir da emiss\u00E3o desta \u00FAltima, sob pena de cancelamento da Guia.\r\n\r\n\u00A7 4\u00BA A realiza\u00E7\u00E3o de lavra sem a devida licen\u00E7a ambiental ou documento equivalente, ainda que nos termos da GU, ser\u00E1 considerada lavra ilegal, inclusive para fins de caracteriza\u00E7\u00E3o do crime de usurpa\u00E7\u00E3o, nos termos do art. 2\u00BA da Lei n\u00BA 8.176/1991.\r\n\r\nArt. 108. REVOGADO.\r\n\r\nArt. 109. ....................\r\n\r\nEMISS\u00C3O\r\n\r\nArt. 110. Autorizada pela autoridade competente, ser\u00E1 emitida a GU conforme modelo-padr\u00E3o, constante no Anexo III.\r\n\r\n\u00A7 1\u00BA Se o requerimento envolver mais de uma subst\u00E2ncia mineral, ser\u00E1 gerada apenas uma GU abarcando todas as subst\u00E2ncias, as quais dever\u00E3o observar as quantidades contidas no Anexo IV.\r\n\r\n\u00A7 2\u00BA Ser\u00E1 publicado no DOU extrato contendo informa\u00E7\u00F5es sobre a GU emitida.\r\n\r\nArt. 111. REVOGADO.\r\n\r\nArt. 112. ....................\r\n\r\nSUSPENS\u00C3O E EXTIN\u00C7\u00C3O\r\n\r\nArt. 113. ....................\r\n\r\nArt. 114. A ANM poder\u00E1 solicitar dados adicionais, cassar, cancelar ou suspender a GU, ap\u00F3s vistoria in loco acompanhada de relat\u00F3rio sucinto, abordando aspectos t\u00E9cnicos, interesses sociais ou p\u00FAblicos, oportunidade na qual relacionar\u00E1 as obriga\u00E7\u00F5es a serem cumpridas pelo titular.\r\n\r\nPar\u00E1grafo \u00FAnico. A ANM dever\u00E1 comunicar a cassa\u00E7\u00E3o, o cancelamento e a suspens\u00E3o da GU ao \u00F3rg\u00E3o ambiental competente.\r\n\r\nArt. 115. ....................\r\n\r\nArt. 116. ....................\r\n\r\nOBRIGA\u00C7\u00D5ES DO TITULAR\r\n\r\nArt. 117. Fica o titular do direito miner\u00E1rio, quando da emiss\u00E3o da GU, sujeito \u00E0s seguintes obriga\u00E7\u00F5es:\r\n\r\nI - executar os trabalhos de extra\u00E7\u00E3o com observ\u00E2ncia da legisla\u00E7\u00E3o miner\u00E1ria;\r\n\r\nII - confiar, obrigatoriamente, a dire\u00E7\u00E3o dos trabalhos de extra\u00E7\u00E3o a t\u00E9cnico legalmente habilitado ao exerc\u00EDcio da profiss\u00E3o;\r\n\r\nIII - n\u00E3o dificultar ou impossibilitar o aproveitamento ulterior da jazida;\r\n\r\nIV - responder pelos danos e preju\u00EDzos a terceiros que resultarem, direta ou indiretamente, da extra\u00E7\u00E3o;\r\n\r\nV - promover a seguran\u00E7a e a salubridade das habita\u00E7\u00F5es existentes no local;\r\n\r\nVI - evitar o extravio das \u00E1guas e drenar as que possam ocasionar danos e preju\u00EDzos aos vizinhos;\r\n\r\nVII - evitar polui\u00E7\u00E3o do ar ou da \u00E1gua que possa resultar dos trabalhos de extra\u00E7\u00E3o;\r\n\r\nVIII - adotar as provid\u00EAncias indicadas pela fiscaliza\u00E7\u00E3o dos \u00F3rg\u00E3os federais;\r\n\r\nIX - no caso de eventual interrup\u00E7\u00E3o tempor\u00E1ria dos trabalhos de extra\u00E7\u00E3o, manter a(s) frente(s) de extra\u00E7\u00E3o em bom estado de modo a permitir a retomada das opera\u00E7\u00F5es;\r\n\r\nX - apresentar \u00E0 ANM, at\u00E9 o dia 15 de mar\u00E7o de cada ano, relat\u00F3rio anual de lavra - RAL observado o disposto nos arts. 66 a 81;\r\n\r\nXI - n\u00E3o realizar quaisquer atividades de extra\u00E7\u00E3o sem a pr\u00E9via obten\u00E7\u00E3o de licen\u00E7a ambiental ou documento equivalente; e\r\n\r\nXII - suspender imediatamente atividades de extra\u00E7\u00E3o mineral uma vez expirado o prazo de vig\u00EAncia da licen\u00E7a ambiental ou documento equivalente.\r\n\r\nINADIMPLEMENTO DAS OBRIGA\u00C7\u00D5ES\r\n\r\nArt. 118. Na hip\u00F3tese de inobserv\u00E2ncia das obriga\u00E7\u00F5es de que tratam os arts.115 e 116 ou constatada a extra\u00E7\u00E3o em desacordo com os crit\u00E9rios fixados na GU, a ANM adotar\u00E1 as provid\u00EAncias cab\u00EDveis, inclusive as previstas no Manual de Fiscaliza\u00E7\u00E3o do DNPM, quando for o caso, sem preju\u00EDzo das san\u00E7\u00F5es previstas na legisla\u00E7\u00E3o miner\u00E1ria.\r\n\r\nArt. 119. ....................\r\n\r\nPRORROGA\u00C7\u00C3O DA GU\r\n\r\nArt. 120 Para prorroga\u00E7\u00E3o da GU o titular dever\u00E1 instruir o pedido com os seguintes documentos:\r\n\r\nI - relat\u00F3rio parcial de atividades de pesquisa mineral at\u00E9 ent\u00E3o desenvolvidas ou relat\u00F3rio final de pesquisa, em sendo o caso, incluindo informa\u00E7\u00F5es sobre as atividades de extra\u00E7\u00E3o;\r\n\r\nII - planta topogr\u00E1fica da \u00E1rea lavrada pela GU na mesma escala da primeira planta fornecida quando do requerimento da GU.\r\n\r\nIII - nova justificativa t\u00E9cnico-econ\u00F4mica apenas se for prevista modifica\u00E7\u00E3o nas condi\u00E7\u00F5es operacionais definidas no art. 104;\r\n\r\nIV - comprova\u00E7\u00E3o do recolhimento da CFEM, referente \u00E0 quantidade da subst\u00E2ncia mineral extra\u00EDda;\r\n\r\nV - comprovante do pagamento dos respectivos emolumentos no valor fixado no Anexo II.\r\n\r\nPar\u00E1grafo \u00FAnico. Os emolumentos recolhidos para o processamento do pedido de prorroga\u00E7\u00E3o da guia de utiliza\u00E7\u00E3o n\u00E3o ser\u00E3o devolvidos.\r\n\r\nArt. 121. A fim de que n\u00E3o haja interrup\u00E7\u00E3o das atividades de extra\u00E7\u00E3o, o titular poder\u00E1 protocolizar o requerimento de prorroga\u00E7\u00E3o da GU, instru\u00EDdo com os documentos de que trata o art. 120, no prazo de at\u00E9 60 (sessenta) dias antes do vencimento da GU vigente.\r\n\r\n\u00A7 1\u00BA Na aus\u00EAncia de decis\u00E3o sobre o requerimento de prorroga\u00E7\u00E3o da GU apresentado na forma do caput, fica tacitamente prorrogada, mantendo-se a continuidade dos trabalhos de extra\u00E7\u00E3o nas condi\u00E7\u00F5es fixadas na GU j\u00E1 emitida at\u00E9 o prazo de 1 (um) ano, contado do seu vencimento.\r\n\r\nArt. 122. A GU poder\u00E1 ser emitida ou prorrogada durante o per\u00EDodo compreendido entre a aprova\u00E7\u00E3o do relat\u00F3rio final de pesquisa e a outorga da concess\u00E3o de lavra, conforme o disposto no art. 104.\r\n\r\n\u00A7 1\u00BA A aus\u00EAncia de aprova\u00E7\u00E3o de relat\u00F3rio final de pesquisa entregue tempestivamente n\u00E3o obstar\u00E1 a emiss\u00E3o da GU.\r\n\r\n\u00A7 2\u00BA Expirado o prazo de vig\u00EAncia da licen\u00E7a ambiental, a GU perder\u00E1 efic\u00E1cia, podendo ensejar a aplica\u00E7\u00E3o do \u00A7 2\u00BA do art. 107.\r\n\r\n\u00A7 3\u00BA A decis\u00E3o que negar a aprova\u00E7\u00E3o do relat\u00F3rio final de pesquisa, reconhecer a caducidade do direito de requerer a lavra ou indeferir o requerimento de lavra, conforme o caso, ensejar\u00E1 o cancelamento imediato de eventual GU anteriormente emitida, sem a necessidade de manifesta\u00E7\u00E3o expressa da autoridade competente.\u0022 (NR)\r\n\r\nArt. 2\u00BA Esta Resolu\u00E7\u00E3o entra em vigor na data de sua publica\u00E7\u00E3o.\r\n\r\nVICTOR HUGO FRONER BICCA\r\nDiretor-Geral\r\n\r\nD.O.U., 08/06/2020 - Se\u00E7\u00E3o 1"
+        }
+      ],
+      "BasesID": [
+        "Bl3hv5jX3JEg"
+      ]
+    },
+    {
+      "Id": "C",
+      "Position": {
+        "IsEmpty": false,
+        "X": 196,
+        "Y": -30
+      },
+      "Label": "Atende requisitos?\u003Cbr\u003EArt. 105",
+      "Description": null,
+      "color": "#90ee90",
+      "Type": 1,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "D",
+      "Position": {
+        "IsEmpty": false,
+        "X": 197,
+        "Y": 107
+      },
+      "Label": "Emiss\u00E3o GU\u003Cbr\u003EArt. 110",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "E",
+      "Position": {
+        "IsEmpty": false,
+        "X": 720,
+        "Y": -30
+      },
+      "Label": "Indeferimento\u003Cbr\u003EArt. 105, \u00A71\u00BA e \u00A72\u00BA",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "F",
+      "Position": {
+        "IsEmpty": false,
+        "X": 406,
+        "Y": 107
+      },
+      "Label": "Obten\u00E7\u00E3o Licen\u00E7a Ambiental\u003Cbr\u003EArt. 107",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "G",
+      "Position": {
+        "IsEmpty": false,
+        "X": 404,
+        "Y": 210
+      },
+      "Label": "Licen\u00E7a obtida?\u003Cbr\u003EArt. 107, \u00A72\u00BA e \u00A73\u00BA",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 1,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "H",
+      "Position": {
+        "IsEmpty": false,
+        "X": 402,
+        "Y": 320
+      },
+      "Label": "In\u00EDcio da vig\u00EAncia GU\u003Cbr\u003EArt. 107, \u00A72\u00BA",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "I",
+      "Position": {
+        "IsEmpty": false,
+        "X": 70,
+        "Y": 209
+      },
+      "Label": "Cancelamento GU\u003Cbr\u003EArt. 107, \u00A73\u00BA",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "J",
+      "Position": {
+        "IsEmpty": false,
+        "X": 403,
+        "Y": 420
+      },
+      "Label": "Execu\u00E7\u00E3o da extra\u00E7\u00E3o\u003Cbr\u003EArt. 117",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "K",
+      "Position": {
+        "IsEmpty": false,
+        "X": 403,
+        "Y": 527
+      },
+      "Label": "Prorroga\u00E7\u00E3o necess\u00E1ria?\u003Cbr\u003EArt. 120",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 1,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "L",
+      "Position": {
+        "IsEmpty": false,
+        "X": 404,
+        "Y": 706
+      },
+      "Label": "Requerimento de prorroga\u00E7\u00E3o\u003Cbr\u003EArt. 120, 121",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "M",
+      "Position": {
+        "IsEmpty": false,
+        "X": 626,
+        "Y": 528
+      },
+      "Label": "Fim da GU",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "N",
+      "Position": {
+        "IsEmpty": false,
+        "X": 624,
+        "Y": 419
+      },
+      "Label": "Aprovado?\u003Cbr\u003EArt. 121, \u00A71\u00BA",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 1,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "INICIO",
+      "Position": {
+        "IsEmpty": false,
+        "X": -219,
+        "Y": -28
+      },
+      "Label": "In\u00EDcio",
+      "Description": null,
+      "color": "#90ee90",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "FIM",
+      "Position": {
+        "IsEmpty": false,
+        "X": 720,
+        "Y": 530
+      },
+      "Label": "Fim",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    }
+  ],
+  "Edges": [
+    {
+      "IDToNode": "C",
+      "IDFromNode": "B",
+      "Activity": null,
+      "Color": "#00a900"
+    },
+    {
+      "IDToNode": "D",
+      "IDFromNode": "C",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "E",
+      "IDFromNode": "C",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "F",
+      "IDFromNode": "D",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "G",
+      "IDFromNode": "F",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "H",
+      "IDFromNode": "G",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "I",
+      "IDFromNode": "G",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "J",
+      "IDFromNode": "H",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "K",
+      "IDFromNode": "J",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "L",
+      "IDFromNode": "K",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "M",
+      "IDFromNode": "K",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "N",
+      "IDFromNode": "L",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "J",
+      "IDFromNode": "N",
+      "Activity": "Sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "M",
+      "IDFromNode": "N",
+      "Activity": "N\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "FIM",
+      "IDFromNode": "M",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "FIM",
+      "IDFromNode": "E",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "B",
+      "IDFromNode": "INICIO",
+      "Activity": null,
+      "Color": "#00a900"
+    }
+  ],
+  "AIPrompts": [
+    {
+      "Id": "XwzjneqyFzaj",
+      "Name": "An\u00E1lise de Guia",
+      "InputTemplate": "Texto para an\u00E1lise em {IDIOMA}: {INPUT}",
+      "PromptTemplate": "Extraia as informa\u00E7\u00F5es: {PREPARED_INPUT}",
+      "OutputFormat": "Extraia Subst\u00E2ncia Mineral, Prazo, T\u00E9cnicas de Extra\u00E7\u00E3o indicando qual p\u00E1gina se encontra cada informa\u00E7\u00E3o.",
+      "Parameters": {
+        "IDIOMA": "portugu\u00EAs"
+      }
+    }
+  ],
+  "Bases": [
+    {
+      "Id": "Bl3hv5jX3JEg",
+      "Name": "RESOLU\u00C7\u00C3O N\u00BA 37, DE 4 DE JUNHO DE 2020",
+      "Content": "MINIST\u00C9RIO DE MINAS E ENERGIA\r\n\r\nAG\u00CANCIA NACIONAL DE MINERA\u00C7\u00C3O\r\n\r\nRESOLU\u00C7\u00C3O N\u00BA 37, DE 4 DE JUNHO DE 2020\r\n\r\nAltera os artigos 102 ao 122 da Portaria n\u00BA 155/2016, que disciplinam a emiss\u00E3o da Guia de Utiliza\u00E7\u00E3o - GU.\r\n\r\nA DIRETORIA COLEGIADA DA AG\u00CANCIA NACIONAL DE MINERA\u00C7\u00C3O - ANM, no exerc\u00EDcio das compet\u00EAncias que lhe foram outorgadas pelos incisos XII e XXVIII do art. 2\u00BA, e pelo inciso II do \u00A7 1\u00BA, do art. 11 da Lei n\u00BA 13.575, de 26 de dezembro de 2017, pela al\u00EDnea \u0022a\u0022 do inciso XII, pelo inciso XXVIII do art. 2\u00BA e pelo inciso II do art. 9\u00BA da Estrutura Regimental da ANM, aprovada na forma do Anexo I do Decreto n\u00BA 9.587, de 27 de novembro de 2018, resolve:\r\n\r\nArt. 1\u00BA Os artigos 102 ao 122 da Portaria n\u00BA 155, de 12 de maio de 2016, passam a vigorar com a seguinte reda\u00E7\u00E3o:\r\n\r\n\u0022SE\u00C7\u00C3O VII\r\n\r\nDA GUIA DE UTILIZA\u00C7\u00C3O\r\n\r\nArt. 102. A extra\u00E7\u00E3o mineral em \u00E1rea titulada poder\u00E1 ser autorizada, em car\u00E1ter excepcional, antes da outorga da concess\u00E3o de lavra, mediante a emiss\u00E3o de Guia de Utiliza\u00E7\u00E3o - GU pela ANM, nos termos dos artigos 22, \u00A7 2\u00BA, do Decreto Lei n\u00BA 227/1967, e 24 do Decreto n\u00BA 9.406/2018, bem como observando-se o disposto neste cap\u00EDtulo e Anexos III e IV.\r\n\r\n\u00A7 1\u00BA Para efeito de emiss\u00E3o da GU ser\u00E3o consideradas como excepcionais as seguintes situa\u00E7\u00F5es:\r\n\r\nI - aferi\u00E7\u00E3o da viabilidade t\u00E9cnico-econ\u00F4mica da lavra de subst\u00E2ncias minerais no mercado nacional e/ou internacional;\r\n\r\nII - a extra\u00E7\u00E3o de subst\u00E2ncias minerais para an\u00E1lise e ensaios industriais antes da outorga da concess\u00E3o de lavra; e\r\n\r\nIII - a comercializa\u00E7\u00E3o de subst\u00E2ncias minerais, a crit\u00E9rio da ANM, de acordo com as pol\u00EDticas p\u00FAblicas, antes da outorga de concess\u00E3o de lavra.\r\n\r\n\u00A7 2\u00BA Quando da an\u00E1lise do pedido de GU na forma do disposto no inciso III do \u00A7 1\u00BA, ser\u00E3o consideradas para efeito de pol\u00EDticas p\u00FAblicas, as seguintes condi\u00E7\u00F5es das \u00E1reas:\r\n\r\nI - Em situa\u00E7\u00E3o de formaliza\u00E7\u00E3o da atividade e fortalecimento das Micro e Pequenas Empresas, de acordo com os objetivos estrat\u00E9gicos do Plano Nacional de Minera\u00E7\u00E3o - 2030;\r\n\r\nII - Que visarem a promo\u00E7\u00E3o do desenvolvimento da pequena e m\u00E9dia minera\u00E7\u00E3o por meio de a\u00E7\u00F5es de extensionismo mineral, formaliza\u00E7\u00E3o, cooperativismo e arranjos produtivos locais;\r\n\r\nIII - Que se destinarem \u00E0 pesquisa dos minerais estrat\u00E9gicos (abundantes, carentes e portadores de futuro) de acordo com os objetivos do Plano Nacional de Minera\u00E7\u00E3o - 2030;\r\n\r\nIV - Que visarem a garantia da oferta de insumos para obras civis de infraestrutura, para o desenvolvimento agr\u00EDcola e da constru\u00E7\u00E3o civil;\r\n\r\nV - Com investimentos em setores relevantes para a Balan\u00E7a Comercial Brasileira, contendo subst\u00E2ncia necess\u00E1rias ao desenvolvimento local e regional;\r\n\r\nVI - Com projetos que promovam a diversifica\u00E7\u00E3o da pauta de exporta\u00E7\u00E3o brasileira e o fortalecimento de m\u00E9dias empresas visando a conquista do mercado internacional. Contribuindo para o super\u00E1vit da balan\u00E7a comercial. (Reda\u00E7\u00E3o dada pela PORTARIA N\u00BA 256, DE 5 DE AGOSTO DE 2016, DOU de 08/08/2016)\r\n\r\nArt. 103. A GU ser\u00E1 emitida para as subst\u00E2ncias minerais constantes da tabela do Anexo IV, observadas as quantidades m\u00E1ximas nela especificadas.\r\n\r\nPar\u00E1grafo \u00FAnico. A crit\u00E9rio da Diretoria Colegiada da ANM poder\u00E1 ser concedida GU para outras subst\u00E2ncias n\u00E3o relacionadas na tabela de que trata o caput.\r\n\r\nREQUERIMENTO\r\n\r\nArt. 104. A GU ser\u00E1 pleiteada pelo titular do direito miner\u00E1rio em requerimento a ser protocolizado na ANM observado o disposto no art. 16, II, \u0022g\u0022, devendo conter os seguintes elementos:\r\n\r\nI - declara\u00E7\u00E3o com justificativa t\u00E9cnica e econ\u00F4mica, elaborada e assinada por profissional legalmente habilitado e descrevendo, no m\u00EDnimo, os dep\u00F3sitos potencialmente existentes ou pass\u00EDveis de estimativa, a extens\u00E3o das respectivas \u00E1reas, as opera\u00E7\u00F5es de decapeamento, desmonte, carregamento, transporte, beneficiamento, se for o caso, sistema de disposi\u00E7\u00E3o de materiais e as medidas de controle ambiental, reabilita\u00E7\u00E3o da \u00E1rea minerada e as de prote\u00E7\u00E3o \u00E0 seguran\u00E7a e \u00E0 sa\u00FAde do trabalhador;\r\n\r\nII - indica\u00E7\u00E3o da quantidade de cada subst\u00E2ncia mineral a ser extra\u00EDda, bem como do prazo de validade pleiteado para a GU, observado o que disp\u00F5e o art. 24 do Decreto n\u00BA 9.406/2018;\r\n\r\nIII - mapas, plantas, fotografias e imagens, demonstrando a situa\u00E7\u00E3o atual da \u00E1rea e seu entorno (mapas de uso do solo, geologia, drenagem, limites municipais, edifica\u00E7\u00F5es, unidades protegidas e/ou com restri\u00E7\u00F5es, cartas planialtim\u00E9tricas, modelo digital de terreno e imagens digitais de sat\u00E9lite, radar ou a\u00E9rea com alta resolu\u00E7\u00E3o); e\r\n\r\nIV - comprovante de pagamento dos respectivos emolumentos no valor fixado no Anexo II.\r\n\r\n\u00A7 1\u00BA Os emolumentos recolhidos para o processamento do pedido de guia de utiliza\u00E7\u00E3o n\u00E3o ser\u00E3o devolvidos.\r\n\r\n\u00A7 2\u00BA Para atendimento do requisito do inciso III, a planta dever\u00E1 ser topogr\u00E1fica, em escala apropriada, de no m\u00EDnimo 1:1.000.\r\n\r\n\u00A7 3\u00BA Os documentos descritos no inciso III do caput devem estar padronizados conforme as normas da ABNT, apresentados em escala de detalhe para uma caracteriza\u00E7\u00E3o detalhada do empreendimento e serem entregues georreferenciados a um sistema de coordenadas geogr\u00E1ficas ou sistema de proje\u00E7\u00E3o Universal Transversal de Mercator (UTM), referenciados ao datum oficial do Brasil - SIRGAS 2000.\r\n\r\n\u00A7 4\u00BA Os dados vetoriais devem ser entregues nos formatos DXF e SHP, e as imagens raster devem ser georreferenciadas e apresentadas no formato GeoTIFF.\r\n\r\n\u00A7 5\u00BA Os dados digitais dever\u00E3o ser compat\u00EDveis para serem visualizados em ambiente de Sistema de Informa\u00E7\u00E3o Geogr\u00E1fica (SIG) e/ou Computed Aided Design (CAD).\r\n\r\n\u00A7 6\u00BA \u00C9 admitida a extra\u00E7\u00E3o de uma ou mais subst\u00E2ncias na mesma GU.\r\n\r\nAN\u00C1LISE E DECIS\u00C3O\r\n\r\nArt. 105. A emiss\u00E3o da GU constituir\u00E1 ato administrativo vinculado ao cumprimento dos seguintes requisitos:\r\n\r\nI - apresentar o rol de documentos de que trata o art. 104 quando da formula\u00E7\u00E3o do requerimento;\r\n\r\nII - estiver com a taxa anual por hectare devidamente quitada;\r\n\r\nIII - estiver em situa\u00E7\u00E3o de regularidade em rela\u00E7\u00E3o ao processo miner\u00E1rio, n\u00E3o tendo incorrido em nenhuma das causas de caducidade estabelecidas pela legisla\u00E7\u00E3o miner\u00E1ria, ainda que n\u00E3o tenham sido formalmente declaradas nos autos, mas que j\u00E1 sejam de poss\u00EDvel constata\u00E7\u00E3o; e\r\n\r\nIV - n\u00E3o ter realizado lavra ilegal previamente ao requerimento da GU.\r\n\r\n\u00A7 1\u00BA Para os requerimentos de GU que atenderem aos requisitos estabelecidos pelo caput deste artigo, o servidor respons\u00E1vel sugerir\u00E1 em parecer t\u00E9cnico o deferimento do pleito, encaminhando-se em seguida o processo \u00E0 autoridade competente para decis\u00E3o e publica\u00E7\u00E3o.\r\n\r\n\u00A7 2\u00BA Para os requerimentos de GU que atenderem aos requisitos estabelecidos pelo caput deste artigo, por\u00E9m com pedidos em volumes acima do permitido na tabela do Anexo IV, o servidor respons\u00E1vel sugerir\u00E1 em parecer t\u00E9cnico a adequa\u00E7\u00E3o dos volumes m\u00E1ximos a serem extra\u00EDdos, encaminhando-se em seguida o processo \u00E0 autoridade competente para decis\u00E3o e publica\u00E7\u00E3o.\r\n\r\n\u00A7 3\u00BA O servidor respons\u00E1vel ter\u00E1, antes do parecer t\u00E9cnico, uma \u00FAnica oportunidade para, motivadamente, solicitar dados ou proje\u00E7\u00F5es adicionais, observando-se o disposto no art. 104.\r\n\r\n\u00A7 4\u00BA A qualquer momento a partir da emiss\u00E3o da GU, o seu cumprimento poder\u00E1 ser objeto de a\u00E7\u00E3o fiscalizat\u00F3ria pela ANM.\r\n\r\nArt. 106. REVOGADO.\r\n\r\nArt. 107. A efic\u00E1cia da GU ficar\u00E1 condicionada \u00E0 obten\u00E7\u00E3o de licen\u00E7a ambiental ou documento equivalente.\r\n\r\n\u00A7 1\u00BA A licen\u00E7a ambiental ou documento equivalente dever\u00E1:\r\n\r\nI - mencionar a(s) subst\u00E2ncia(s) contempladas pela GU;\r\n\r\nII - estar no nome do titular da Guia; e\r\n\r\nIII - ter validade compat\u00EDvel com a GU.\r\n\r\n\u00A7 2\u00BA O in\u00EDcio da vig\u00EAncia da GU coincidir\u00E1 com a data de outorga do licenciamento.\r\n\r\n\u00A7 3\u00BA O titular da GU dever\u00E1 apresentar \u00E0 ANM a licen\u00E7a ambiental ou documento equivalente dentro de 10 (dez) dias, contados a partir da emiss\u00E3o desta \u00FAltima, sob pena de cancelamento da Guia.\r\n\r\n\u00A7 4\u00BA A realiza\u00E7\u00E3o de lavra sem a devida licen\u00E7a ambiental ou documento equivalente, ainda que nos termos da GU, ser\u00E1 considerada lavra ilegal, inclusive para fins de caracteriza\u00E7\u00E3o do crime de usurpa\u00E7\u00E3o, nos termos do art. 2\u00BA da Lei n\u00BA 8.176/1991.\r\n\r\nArt. 108. REVOGADO.\r\n\r\nArt. 109. ....................\r\n\r\nEMISS\u00C3O\r\n\r\nArt. 110. Autorizada pela autoridade competente, ser\u00E1 emitida a GU conforme modelo-padr\u00E3o, constante no Anexo III.\r\n\r\n\u00A7 1\u00BA Se o requerimento envolver mais de uma subst\u00E2ncia mineral, ser\u00E1 gerada apenas uma GU abarcando todas as subst\u00E2ncias, as quais dever\u00E3o observar as quantidades contidas no Anexo IV.\r\n\r\n\u00A7 2\u00BA Ser\u00E1 publicado no DOU extrato contendo informa\u00E7\u00F5es sobre a GU emitida.\r\n\r\nArt. 111. REVOGADO.\r\n\r\nArt. 112. ....................\r\n\r\nSUSPENS\u00C3O E EXTIN\u00C7\u00C3O\r\n\r\nArt. 113. ....................\r\n\r\nArt. 114. A ANM poder\u00E1 solicitar dados adicionais, cassar, cancelar ou suspender a GU, ap\u00F3s vistoria in loco acompanhada de relat\u00F3rio sucinto, abordando aspectos t\u00E9cnicos, interesses sociais ou p\u00FAblicos, oportunidade na qual relacionar\u00E1 as obriga\u00E7\u00F5es a serem cumpridas pelo titular.\r\n\r\nPar\u00E1grafo \u00FAnico. A ANM dever\u00E1 comunicar a cassa\u00E7\u00E3o, o cancelamento e a suspens\u00E3o da GU ao \u00F3rg\u00E3o ambiental competente.\r\n\r\nArt. 115. ....................\r\n\r\nArt. 116. ....................\r\n\r\nOBRIGA\u00C7\u00D5ES DO TITULAR\r\n\r\nArt. 117. Fica o titular do direito miner\u00E1rio, quando da emiss\u00E3o da GU, sujeito \u00E0s seguintes obriga\u00E7\u00F5es:\r\n\r\nI - executar os trabalhos de extra\u00E7\u00E3o com observ\u00E2ncia da legisla\u00E7\u00E3o miner\u00E1ria;\r\n\r\nII - confiar, obrigatoriamente, a dire\u00E7\u00E3o dos trabalhos de extra\u00E7\u00E3o a t\u00E9cnico legalmente habilitado ao exerc\u00EDcio da profiss\u00E3o;\r\n\r\nIII - n\u00E3o dificultar ou impossibilitar o aproveitamento ulterior da jazida;\r\n\r\nIV - responder pelos danos e preju\u00EDzos a terceiros que resultarem, direta ou indiretamente, da extra\u00E7\u00E3o;\r\n\r\nV - promover a seguran\u00E7a e a salubridade das habita\u00E7\u00F5es existentes no local;\r\n\r\nVI - evitar o extravio das \u00E1guas e drenar as que possam ocasionar danos e preju\u00EDzos aos vizinhos;\r\n\r\nVII - evitar polui\u00E7\u00E3o do ar ou da \u00E1gua que possa resultar dos trabalhos de extra\u00E7\u00E3o;\r\n\r\nVIII - adotar as provid\u00EAncias indicadas pela fiscaliza\u00E7\u00E3o dos \u00F3rg\u00E3os federais;\r\n\r\nIX - no caso de eventual interrup\u00E7\u00E3o tempor\u00E1ria dos trabalhos de extra\u00E7\u00E3o, manter a(s) frente(s) de extra\u00E7\u00E3o em bom estado de modo a permitir a retomada das opera\u00E7\u00F5es;\r\n\r\nX - apresentar \u00E0 ANM, at\u00E9 o dia 15 de mar\u00E7o de cada ano, relat\u00F3rio anual de lavra - RAL observado o disposto nos arts. 66 a 81;\r\n\r\nXI - n\u00E3o realizar quaisquer atividades de extra\u00E7\u00E3o sem a pr\u00E9via obten\u00E7\u00E3o de licen\u00E7a ambiental ou documento equivalente; e\r\n\r\nXII - suspender imediatamente atividades de extra\u00E7\u00E3o mineral uma vez expirado o prazo de vig\u00EAncia da licen\u00E7a ambiental ou documento equivalente.\r\n\r\nINADIMPLEMENTO DAS OBRIGA\u00C7\u00D5ES\r\n\r\nArt. 118. Na hip\u00F3tese de inobserv\u00E2ncia das obriga\u00E7\u00F5es de que tratam os arts.115 e 116 ou constatada a extra\u00E7\u00E3o em desacordo com os crit\u00E9rios fixados na GU, a ANM adotar\u00E1 as provid\u00EAncias cab\u00EDveis, inclusive as previstas no Manual de Fiscaliza\u00E7\u00E3o do DNPM, quando for o caso, sem preju\u00EDzo das san\u00E7\u00F5es previstas na legisla\u00E7\u00E3o miner\u00E1ria.\r\n\r\nArt. 119. ....................\r\n\r\nPRORROGA\u00C7\u00C3O DA GU\r\n\r\nArt. 120 Para prorroga\u00E7\u00E3o da GU o titular dever\u00E1 instruir o pedido com os seguintes documentos:\r\n\r\nI - relat\u00F3rio parcial de atividades de pesquisa mineral at\u00E9 ent\u00E3o desenvolvidas ou relat\u00F3rio final de pesquisa, em sendo o caso, incluindo informa\u00E7\u00F5es sobre as atividades de extra\u00E7\u00E3o;\r\n\r\nII - planta topogr\u00E1fica da \u00E1rea lavrada pela GU na mesma escala da primeira planta fornecida quando do requerimento da GU.\r\n\r\nIII - nova justificativa t\u00E9cnico-econ\u00F4mica apenas se for prevista modifica\u00E7\u00E3o nas condi\u00E7\u00F5es operacionais definidas no art. 104;\r\n\r\nIV - comprova\u00E7\u00E3o do recolhimento da CFEM, referente \u00E0 quantidade da subst\u00E2ncia mineral extra\u00EDda;\r\n\r\nV - comprovante do pagamento dos respectivos emolumentos no valor fixado no Anexo II.\r\n\r\nPar\u00E1grafo \u00FAnico. Os emolumentos recolhidos para o processamento do pedido de prorroga\u00E7\u00E3o da guia de utiliza\u00E7\u00E3o n\u00E3o ser\u00E3o devolvidos.\r\n\r\nArt. 121. A fim de que n\u00E3o haja interrup\u00E7\u00E3o das atividades de extra\u00E7\u00E3o, o titular poder\u00E1 protocolizar o requerimento de prorroga\u00E7\u00E3o da GU, instru\u00EDdo com os documentos de que trata o art. 120, no prazo de at\u00E9 60 (sessenta) dias antes do vencimento da GU vigente.\r\n\r\n\u00A7 1\u00BA Na aus\u00EAncia de decis\u00E3o sobre o requerimento de prorroga\u00E7\u00E3o da GU apresentado na forma do caput, fica tacitamente prorrogada, mantendo-se a continuidade dos trabalhos de extra\u00E7\u00E3o nas condi\u00E7\u00F5es fixadas na GU j\u00E1 emitida at\u00E9 o prazo de 1 (um) ano, contado do seu vencimento.\r\n\r\nArt. 122. A GU poder\u00E1 ser emitida ou prorrogada durante o per\u00EDodo compreendido entre a aprova\u00E7\u00E3o do relat\u00F3rio final de pesquisa e a outorga da concess\u00E3o de lavra, conforme o disposto no art. 104.\r\n\r\n\u00A7 1\u00BA A aus\u00EAncia de aprova\u00E7\u00E3o de relat\u00F3rio final de pesquisa entregue tempestivamente n\u00E3o obstar\u00E1 a emiss\u00E3o da GU.\r\n\r\n\u00A7 2\u00BA Expirado o prazo de vig\u00EAncia da licen\u00E7a ambiental, a GU perder\u00E1 efic\u00E1cia, podendo ensejar a aplica\u00E7\u00E3o do \u00A7 2\u00BA do art. 107.\r\n\r\n\u00A7 3\u00BA A decis\u00E3o que negar a aprova\u00E7\u00E3o do relat\u00F3rio final de pesquisa, reconhecer a caducidade do direito de requerer a lavra ou indeferir o requerimento de lavra, conforme o caso, ensejar\u00E1 o cancelamento imediato de eventual GU anteriormente emitida, sem a necessidade de manifesta\u00E7\u00E3o expressa da autoridade competente.\u0022 (NR)\r\n\r\nArt. 2\u00BA Esta Resolu\u00E7\u00E3o entra em vigor na data de sua publica\u00E7\u00E3o.\r\n\r\nVICTOR HUGO FRONER BICCA\r\nDiretor-Geral\r\n\r\nD.O.U., 08/06/2020 - Se\u00E7\u00E3o 1"
+    }
+  ],
+  "AIModel": 0,
+  "apiKey": null
+}

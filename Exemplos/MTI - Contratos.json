@@ -1,0 +1,398 @@
+{
+  "Nodes": [
+    {
+      "Id": "C",
+      "Position": {
+        "IsEmpty": false,
+        "X": 353,
+        "Y": 96
+      },
+      "Label": "Detalhes do Processo",
+      "Description": null,
+      "color": "#e06377",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "D",
+      "Position": {
+        "IsEmpty": false,
+        "X": 353,
+        "Y": 220
+      },
+      "Label": "Vig\u00EAncia Contratual",
+      "Description": null,
+      "color": "#c83349",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "E",
+      "Position": {
+        "IsEmpty": false,
+        "X": 353,
+        "Y": 329
+      },
+      "Label": "Execu\u00E7\u00E3o do Servi\u00E7o",
+      "Description": null,
+      "color": "#5b9aa0",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "F",
+      "Position": {
+        "IsEmpty": false,
+        "X": 352,
+        "Y": 428
+      },
+      "Label": "Nota Fiscal",
+      "Description": null,
+      "color": "#d6d4e0",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "G",
+      "Position": {
+        "IsEmpty": false,
+        "X": 353,
+        "Y": 534
+      },
+      "Label": "Documentos Trabalhistas",
+      "Description": null,
+      "color": "#b8a9c9",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "H",
+      "Position": {
+        "IsEmpty": false,
+        "X": 498,
+        "Y": 535
+      },
+      "Label": "Atesto e Recebimento",
+      "Description": null,
+      "color": "#622569",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "I",
+      "Position": {
+        "IsEmpty": false,
+        "X": 644,
+        "Y": 536
+      },
+      "Label": "Lan\u00E7amento no Sistema",
+      "Description": null,
+      "color": "#c06c84",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "J",
+      "Position": {
+        "IsEmpty": false,
+        "X": 780,
+        "Y": 535
+      },
+      "Label": "Empenho",
+      "Description": null,
+      "color": "#f67280",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "K",
+      "Position": {
+        "IsEmpty": false,
+        "X": 899,
+        "Y": 536
+      },
+      "Label": "Liquida\u00E7\u00E3o",
+      "Description": null,
+      "color": "#f8b195",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "L",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1020,
+        "Y": 536
+      },
+      "Label": "Conformidade Financeira",
+      "Description": null,
+      "color": "#6c5b7b",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "M",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1189,
+        "Y": 537
+      },
+      "Label": "Pagamento Regular ou Extra-Or\u00E7ament\u00E1rio?",
+      "Description": null,
+      "color": "#355c7d",
+      "Type": 1,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "N",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1400,
+        "Y": 274
+      },
+      "Label": "Nota de Ordem Banc\u00E1ria",
+      "Description": null,
+      "color": "#fbc490",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "O",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1190,
+        "Y": 348
+      },
+      "Label": "Solicita\u00E7\u00E3o de Pagamento Extra-Or\u00E7ament\u00E1rio",
+      "Description": null,
+      "color": "#f7c6a9",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "Q",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1191,
+        "Y": 170
+      },
+      "Label": "Nota de Ordem Banc\u00E1ria Extra-Or\u00E7ament\u00E1ria",
+      "Description": null,
+      "color": "#f2a297",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "INICIO",
+      "Position": {
+        "IsEmpty": false,
+        "X": 354,
+        "Y": -129
+      },
+      "Label": "In\u00EDcio",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "FIM",
+      "Position": {
+        "IsEmpty": false,
+        "X": 1191,
+        "Y": -13
+      },
+      "Label": "Fim",
+      "Description": null,
+      "color": "#add8e6",
+      "Type": 0,
+      "AIPromptID": null,
+      "Bases": null,
+      "BasesID": null
+    },
+    {
+      "Id": "nBvlz9tt2IyB",
+      "Position": {
+        "IsEmpty": false,
+        "X": 353,
+        "Y": -14
+      },
+      "Label": "Identifica\u00E7\u00E3o est\u00E1 completa?",
+      "Description": "",
+      "color": "#add8e6",
+      "Type": 1,
+      "AIPromptID": "3IA5QdYTxwlY",
+      "Bases": [
+        {
+          "Id": "0phkQ8ZWTu84",
+          "Name": "Identifica\u00E7\u00E3o do Contrato",
+          "Content": "Cada contrato deve ter um ID \u00FAnico no sistema.\n\r\nO CNPJ da empresa contratada deve ser validado na Receita Federal.\n\r\nO nome da empresa deve corresponder exatamente ao registrado no CNPJ.\r\nRegex CNPJ: \u0022^\\d{2}\\.\\d{3}\\.\\d{3}/\\d{4}-\\d{2}$\u0022"
+        }
+      ],
+      "BasesID": [
+        "0phkQ8ZWTu84"
+      ]
+    }
+  ],
+  "Edges": [
+    {
+      "IDToNode": "F",
+      "IDFromNode": "E",
+      "Activity": "sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "M",
+      "IDFromNode": "L",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "FIM",
+      "IDFromNode": "Q",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "FIM",
+      "IDFromNode": "N",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "Q",
+      "IDFromNode": "O",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "O",
+      "IDFromNode": "M",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "N",
+      "IDFromNode": "M",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "D",
+      "IDFromNode": "C",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "E",
+      "IDFromNode": "D",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "G",
+      "IDFromNode": "F",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "H",
+      "IDFromNode": "G",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "I",
+      "IDFromNode": "H",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "J",
+      "IDFromNode": "I",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "K",
+      "IDFromNode": "J",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "L",
+      "IDFromNode": "K",
+      "Activity": null,
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "C",
+      "IDFromNode": "nBvlz9tt2IyB",
+      "Activity": "sim",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "FIM",
+      "IDFromNode": "nBvlz9tt2IyB",
+      "Activity": "n\u00E3o",
+      "Color": "#000000"
+    },
+    {
+      "IDToNode": "nBvlz9tt2IyB",
+      "IDFromNode": "INICIO",
+      "Activity": null,
+      "Color": "#000000"
+    }
+  ],
+  "AIPrompts": [
+    {
+      "Id": "3IA5QdYTxwlY",
+      "Name": "Identifica\u00E7\u00E3o esta completa?",
+      "InputTemplate": "Texto para an\u00E1lise {IDIOMA}: {INPUT}",
+      "PromptTemplate": "Analise de acordo com a regra e gere uma resposta \u00FAnica se est\u00E1 de acordo ou n\u00E3o: {PREPARED_INPUT}",
+      "OutputFormat": "Responda em JSONsem markdown\r\n{\u0022response\u0022:\u0022sim|n\u00E3o\u0022}",
+      "Parameters": {
+        "IDIOMA": "portugu\u00EAs"
+      }
+    }
+  ],
+  "Bases": [
+    {
+      "Id": "0phkQ8ZWTu84",
+      "Name": "Identifica\u00E7\u00E3o do Contrato",
+      "Content": "Cada contrato deve ter um ID \u00FAnico no sistema.\n\r\nO CNPJ da empresa contratada deve ser validado na Receita Federal.\n\r\nO nome da empresa deve corresponder exatamente ao registrado no CNPJ.\r\nRegex CNPJ: \u0022^\\d{2}\\.\\d{3}\\.\\d{3}/\\d{4}-\\d{2}$\u0022"
+    }
+  ],
+  "AIModel": 0,
+  "apiKey": null
+}

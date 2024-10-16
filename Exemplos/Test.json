@@ -1,0 +1,137 @@
+{
+  "Nodes": [
+    {
+      "Id": "INICIO",
+      "Position": {
+        "IsEmpty": false,
+        "X": 92,
+        "Y": 158
+      },
+      "Label": "In\u00EDcio",
+      "Description": null,
+      "color": "#ADD8E6",
+      "IsDecisionPoint": false,
+      "AIPrompt": null,
+      "Base": null
+    },
+    {
+      "Id": "FIM",
+      "Position": {
+        "IsEmpty": false,
+        "X": 547,
+        "Y": 164
+      },
+      "Label": "Fim",
+      "Description": null,
+      "color": "#ADD8E6",
+      "IsDecisionPoint": false,
+      "AIPrompt": null,
+      "Base": null
+    },
+    {
+      "Id": "9d8c1335-29b0-4b9c-a244-48a1ae91c015",
+      "Position": {
+        "IsEmpty": false,
+        "X": 241,
+        "Y": 161
+      },
+      "Label": "Maioridade",
+      "Description": "Neste trecho, preciso analisar se \u00E9 maior de idade ou n\u00E3o",
+      "color": "#ADD8E6",
+      "IsDecisionPoint": false,
+      "AIPrompt": {
+        "Id": "1d3d8d67-664f-4869-a03b-70901155c1a8",
+        "Name": "\u00C9 maior de idade?",
+        "InputTemplate": "Texto para an\u00E1lise em {IDIOMA}: {INPUT}",
+        "PromptTemplate": "Analise regras de maioridade: {PREPARED_INPUT}",
+        "OutputFormat": "tente responder em poucas palavras",
+        "Parameters": {
+          "IDIOMA": "portugu\u00EAs"
+        }
+      },
+      "Base": {
+        "Id": "29c7f6ad-3be9-430d-9802-1bd198ae281a",
+        "Name": "Regra para Maioridade",
+        "Content": "No Brasil, a maioridade civil \u00E9 atingida aos 18 anos de idade. Nessa idade:\n\nA pessoa adquire plena capacidade civil\nTorna-se penalmente imput\u00E1vel (pode responder criminalmente por seus atos)\nPode votar (embora o voto seja facultativo entre 16 e 18 anos)\nPode obter Carteira Nacional de Habilita\u00E7\u00E3o (CNH)\nPode consumir e comprar bebidas alco\u00F3licas legalmente\nPode casar-se sem necessidade de autoriza\u00E7\u00E3o dos pais\nPode assinar contratos e ser responsabilizado por eles\nPode abrir conta banc\u00E1ria e moviment\u00E1-la sem um respons\u00E1vel\n\nAlgumas exce\u00E7\u00F5es importantes:\n\nO voto \u00E9 obrigat\u00F3rio a partir dos 18 anos\nAos 16 anos j\u00E1 se pode votar (facultativamente) e trabalhar como empregado\nA maioridade penal \u00E9 aos 18, mas a partir dos 12 anos o adolescente j\u00E1 pode responder por atos infracionais"
+      }
+    },
+    {
+      "Id": "9326af64-e59c-41ba-9c1b-af8a3e452555",
+      "Position": {
+        "IsEmpty": false,
+        "X": 396,
+        "Y": 163
+      },
+      "Label": "Servi\u00E7o Militar",
+      "Description": "",
+      "color": "#ADD8E6",
+      "IsDecisionPoint": false,
+      "AIPrompt": {
+        "Id": "c1fca1d6-93fc-4b63-b05b-8ff3ae7dae45",
+        "Name": "Servi\u00E7o Militar",
+        "InputTemplate": "Texto para an\u00E1lise em {IDIOMA}: {INPUT}",
+        "PromptTemplate": "Analise regras para servi\u00E7o militar: {PREPARED_INPUT}",
+        "OutputFormat": "Seja breve na resposta",
+        "Parameters": {
+          "IDIOMA": "portugu\u00EAs"
+        }
+      },
+      "Base": {
+        "Id": "967dd2ad-7e93-4a0a-87e2-6cc047ec5e72",
+        "Name": "Servi\u00E7o Militar",
+        "Content": "servi\u00E7o militar obrigat\u00F3rio no Brasil em rela\u00E7\u00E3o \u00E0 maioridade:\n\nAlistamento obrigat\u00F3rio:\n\nTodos os homens brasileiros devem se alistar no ano em que completam 18 anos.\nO per\u00EDodo de alistamento vai de 1\u00BA de janeiro at\u00E9 30 de junho.\n\n\nExce\u00E7\u00F5es ao alistamento:\n\nMulheres e eclesi\u00E1sticos (pessoas dedicadas \u00E0 vida religiosa) est\u00E3o isentos.\n\n\nProcesso:\n\nO jovem deve se apresentar \u00E0 Junta de Servi\u00E7o Militar mais pr\u00F3xima de sua resid\u00EAncia.\nPode tamb\u00E9m fazer o alistamento online pelo site do Ex\u00E9rcito Brasileiro.\n\n\nSele\u00E7\u00E3o:\n\nNem todos os alistados s\u00E3o convocados para o servi\u00E7o militar ativo.\nA sele\u00E7\u00E3o depende das necessidades das For\u00E7as Armadas e das aptid\u00F5es do jovem.\n\n\nDura\u00E7\u00E3o do servi\u00E7o:\n\nSe convocado, o servi\u00E7o militar inicial dura geralmente 12 meses.\n\n\nDispensa:\n\nAlguns podem ser dispensados por excesso de contingente ou por motivos de sa\u00FAde.\n\n\nConsequ\u00EAncias legais:\n\nN\u00E3o se alistar pode resultar em multa e restri\u00E7\u00F5es, como impossibilidade de:\n\nObter passaporte ou carteira de identidade\nIngressar em emprego p\u00FAblico\nMatricular-se em institui\u00E7\u00F5es de ensino\n\n\n\n\nCertificado de Dispensa de Incorpora\u00E7\u00E3o (CDI):\n\nDocumento emitido para os dispensados do servi\u00E7o militar ativo.\nImportante para regularizar a situa\u00E7\u00E3o militar."
+      }
+    }
+  ],
+  "Edges": [
+    {
+      "IDToNode": "9d8c1335-29b0-4b9c-a244-48a1ae91c015",
+      "IDFromNode": "INICIO",
+      "Activity": null
+    },
+    {
+      "IDToNode": "9326af64-e59c-41ba-9c1b-af8a3e452555",
+      "IDFromNode": "9d8c1335-29b0-4b9c-a244-48a1ae91c015",
+      "Activity": null
+    },
+    {
+      "IDToNode": "FIM",
+      "IDFromNode": "9326af64-e59c-41ba-9c1b-af8a3e452555",
+      "Activity": null
+    }
+  ],
+  "AIPrompts": [
+    {
+      "Id": "1d3d8d67-664f-4869-a03b-70901155c1a8",
+      "Name": "\u00C9 maior de idade?",
+      "InputTemplate": "Texto para an\u00E1lise em {IDIOMA}: {INPUT}",
+      "PromptTemplate": "Analise regras de maioridade: {PREPARED_INPUT}",
+      "OutputFormat": "tente responder em poucas palavras",
+      "Parameters": {
+        "IDIOMA": "portugu\u00EAs"
+      }
+    },
+    {
+      "Id": "c1fca1d6-93fc-4b63-b05b-8ff3ae7dae45",
+      "Name": "Servi\u00E7o Militar",
+      "InputTemplate": "Texto para an\u00E1lise em {IDIOMA}: {INPUT}",
+      "PromptTemplate": "Analise regras para servi\u00E7o militar: {PREPARED_INPUT}",
+      "OutputFormat": "Seja breve na resposta",
+      "Parameters": {
+        "IDIOMA": "portugu\u00EAs"
+      }
+    }
+  ],
+  "Bases": [
+    {
+      "Id": "29c7f6ad-3be9-430d-9802-1bd198ae281a",
+      "Name": "Regra para Maioridade",
+      "Content": "No Brasil, a maioridade civil \u00E9 atingida aos 18 anos de idade. Nessa idade:\n\nA pessoa adquire plena capacidade civil\nTorna-se penalmente imput\u00E1vel (pode responder criminalmente por seus atos)\nPode votar (embora o voto seja facultativo entre 16 e 18 anos)\nPode obter Carteira Nacional de Habilita\u00E7\u00E3o (CNH)\nPode consumir e comprar bebidas alco\u00F3licas legalmente\nPode casar-se sem necessidade de autoriza\u00E7\u00E3o dos pais\nPode assinar contratos e ser responsabilizado por eles\nPode abrir conta banc\u00E1ria e moviment\u00E1-la sem um respons\u00E1vel\n\nAlgumas exce\u00E7\u00F5es importantes:\n\nO voto \u00E9 obrigat\u00F3rio a partir dos 18 anos\nAos 16 anos j\u00E1 se pode votar (facultativamente) e trabalhar como empregado\nA maioridade penal \u00E9 aos 18, mas a partir dos 12 anos o adolescente j\u00E1 pode responder por atos infracionais"
+    },
+    {
+      "Id": "967dd2ad-7e93-4a0a-87e2-6cc047ec5e72",
+      "Name": "Servi\u00E7o Militar",
+      "Content": "servi\u00E7o militar obrigat\u00F3rio no Brasil em rela\u00E7\u00E3o \u00E0 maioridade:\n\nAlistamento obrigat\u00F3rio:\n\nTodos os homens brasileiros devem se alistar no ano em que completam 18 anos.\nO per\u00EDodo de alistamento vai de 1\u00BA de janeiro at\u00E9 30 de junho.\n\n\nExce\u00E7\u00F5es ao alistamento:\n\nMulheres e eclesi\u00E1sticos (pessoas dedicadas \u00E0 vida religiosa) est\u00E3o isentos.\n\n\nProcesso:\n\nO jovem deve se apresentar \u00E0 Junta de Servi\u00E7o Militar mais pr\u00F3xima de sua resid\u00EAncia.\nPode tamb\u00E9m fazer o alistamento online pelo site do Ex\u00E9rcito Brasileiro.\n\n\nSele\u00E7\u00E3o:\n\nNem todos os alistados s\u00E3o convocados para o servi\u00E7o militar ativo.\nA sele\u00E7\u00E3o depende das necessidades das For\u00E7as Armadas e das aptid\u00F5es do jovem.\n\n\nDura\u00E7\u00E3o do servi\u00E7o:\n\nSe convocado, o servi\u00E7o militar inicial dura geralmente 12 meses.\n\n\nDispensa:\n\nAlguns podem ser dispensados por excesso de contingente ou por motivos de sa\u00FAde.\n\n\nConsequ\u00EAncias legais:\n\nN\u00E3o se alistar pode resultar em multa e restri\u00E7\u00F5es, como impossibilidade de:\n\nObter passaporte ou carteira de identidade\nIngressar em emprego p\u00FAblico\nMatricular-se em institui\u00E7\u00F5es de ensino\n\n\n\n\nCertificado de Dispensa de Incorpora\u00E7\u00E3o (CDI):\n\nDocumento emitido para os dispensados do servi\u00E7o militar ativo.\nImportante para regularizar a situa\u00E7\u00E3o militar."
+    }
+  ]
+}
