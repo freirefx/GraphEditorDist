@@ -1,0 +1,166 @@
+{
+  "Nodes": [
+    {
+      "Id": "gVmqSbTO0KQF",
+      "Position": {
+        "IsEmpty": false,
+        "X": 70,
+        "Y": 50
+      },
+      "Label": "Contrato",
+      "Description": "",
+      "Type": 3,
+      "AIPromptID": "",
+      "color": "#b6fc60",
+      "BasesID": [],
+      "InputNode": null
+    },
+    {
+      "Id": "eU3AD9y8zxq1",
+      "Position": {
+        "IsEmpty": false,
+        "X": 478,
+        "Y": 49
+      },
+      "Label": "Fim",
+      "Description": null,
+      "Type": 4,
+      "AIPromptID": null,
+      "color": "#e07777",
+      "BasesID": null,
+      "InputNode": null
+    },
+    {
+      "Id": "3vtkZWjPe6bd",
+      "Position": {
+        "IsEmpty": false,
+        "X": 274,
+        "Y": -49
+      },
+      "Label": "Processo de Pagamento",
+      "Description": "",
+      "Type": 3,
+      "AIPromptID": "",
+      "color": "#b6fc60",
+      "BasesID": [],
+      "InputNode": null
+    },
+    {
+      "Id": "TcNa64S8EiRj",
+      "Position": {
+        "IsEmpty": false,
+        "X": 172,
+        "Y": 49
+      },
+      "Label": "Extrai Contrato",
+      "Description": "",
+      "Type": 0,
+      "AIPromptID": "ZqGKHVUB5GSa",
+      "color": "#90ee90",
+      "BasesID": [
+        "OTs04VjbOVpB"
+      ],
+      "InputNode": null
+    },
+    {
+      "Id": "u9lEOBOkYfEs",
+      "Position": {
+        "IsEmpty": false,
+        "X": 275,
+        "Y": 48
+      },
+      "Label": "Join",
+      "Description": "",
+      "Type": 2,
+      "AIPromptID": "",
+      "color": "#90ee90",
+      "BasesID": [],
+      "InputNode": null
+    },
+    {
+      "Id": "M6eiudK0ETlo",
+      "Position": {
+        "IsEmpty": false,
+        "X": 374,
+        "Y": 48
+      },
+      "Label": "Conformidade",
+      "Description": "",
+      "Type": 0,
+      "AIPromptID": "Be6O52fl4l7V",
+      "color": "#90ee90",
+      "BasesID": [
+        "LR1CF9EUtiHe"
+      ],
+      "InputNode": null
+    }
+  ],
+  "Edges": [
+    {
+      "IDToNode": "TcNa64S8EiRj",
+      "IDFromNode": "gVmqSbTO0KQF",
+      "Activity": null,
+      "Color": "#00a900"
+    },
+    {
+      "IDToNode": "M6eiudK0ETlo",
+      "IDFromNode": "u9lEOBOkYfEs",
+      "Activity": null,
+      "Color": "#00a900"
+    },
+    {
+      "IDToNode": "eU3AD9y8zxq1",
+      "IDFromNode": "M6eiudK0ETlo",
+      "Activity": null,
+      "Color": "#00a900"
+    },
+    {
+      "IDToNode": "u9lEOBOkYfEs",
+      "IDFromNode": "TcNa64S8EiRj",
+      "Activity": null,
+      "Color": "#00a900"
+    },
+    {
+      "IDToNode": "u9lEOBOkYfEs",
+      "IDFromNode": "3vtkZWjPe6bd",
+      "Activity": null,
+      "Color": "#00a900"
+    }
+  ],
+  "AIPrompts": [
+    {
+      "Id": "ZqGKHVUB5GSa",
+      "Name": "Extra\u00E7\u00E3o JSON Contrato",
+      "InputTemplate": "Texto em {IDIOMA}: {INPUT}",
+      "PromptTemplate": "{PREPARED_INPUT}\r\n\r\nExtraia as informa\u00E7\u00F5es do contrato.",
+      "OutputFormat": "Gere um JSON sem qualquer markdown ou explica\u00E7\u00E3o.",
+      "Parameters": {
+        "IDIOMA": "portugu\u00EAs"
+      }
+    },
+    {
+      "Id": "Be6O52fl4l7V",
+      "Name": "Conformidade",
+      "InputTemplate": "Texto em {IDIOMA}: {INPUT}",
+      "PromptTemplate": "{PREPARED_INPUT}\r\n\r\nAplique as Regras de Verifica\u00E7\u00E3o Contratual para o Texto e o JSON do contrato.\r\nInsira as p\u00E1ginas correspondentes do Texto em cada item analisado.\r\nPara cada item fa\u00E7a um pequeno par\u00E1grafo e ao final emita um parecer.",
+      "OutputFormat": "",
+      "Parameters": {
+        "IDIOMA": "portugu\u00EAs-br"
+      }
+    }
+  ],
+  "Bases": [
+    {
+      "Id": "OTs04VjbOVpB",
+      "Name": "Estrutura JSON Contrato",
+      "Content": "{\r\n  \u0022contratada\u0022: {\r\n    \u0022cnpj\u0022: \u0022\u0022,\r\n    \u0022razaoSocial\u0022: \u0022\u0022,\r\n    \u0022nomeFantasia\u0022: \u0022\u0022,\r\n    \u0022endereco\u0022: {\r\n      \u0022logradouro\u0022: \u0022\u0022,\r\n      \u0022municipio\u0022: \u0022\u0022,\r\n      \u0022estado\u0022: \u0022\u0022\r\n    },\r\n    \u0022dadosBancarios\u0022: {\r\n      \u0022banco\u0022: \u0022\u0022,\r\n      \u0022agencia\u0022: \u0022\u0022,\r\n      \u0022conta\u0022: \u0022\u0022\r\n    }\r\n  },\r\n  \u0022dadosContrato\u0022: {\r\n    \u0022numero\u0022: \u0022\u0022,\r\n    \u0022dataAssinatura\u0022: \u0022\u0022,\r\n    \u0022vigencia\u0022: {\r\n      \u0022dataInicio\u0022: \u0022\u0022,\r\n      \u0022dataTermino\u0022: \u0022\u0022\r\n    },\r\n    \u0022numeroProcessoOriginal\u0022: \u0022\u0022,\r\n    \u0022valorGlobal\u0022: 0.0,\r\n    \u0022valorMensal\u0022: 0.0\r\n  },\r\n  \u0022objetoEscopo\u0022: {\r\n    \u0022descricao\u0022: \u0022\u0022,\r\n    \u0022especificacoes\u0022: [{\r\n      \u0022servico\u0022: \u0022\u0022,\r\n      \u0022quantidade\u0022: 0,\r\n      \u0022unidadeMedida\u0022: \u0022\u0022,\r\n      \u0022valorUnitario\u0022: 0.0,\r\n      \u0022periodicidade\u0022: \u0022\u0022\r\n    }]\r\n  },\r\n  \u0022informacoesOrcamentarias\u0022: {\r\n    \u0022projetoAtividade\u0022: \u0022\u0022,\r\n    \u0022fonteRecursos\u0022: \u0022\u0022,\r\n    \u0022naturezaDespesa\u0022: \u0022\u0022,\r\n    \u0022elementoDespesa\u0022: \u0022\u0022,\r\n    \u0022subelemento\u0022: \u0022\u0022\r\n  },\r\n  \u0022obrigacoesTrabalhistas\u0022: {\r\n    \u0022beneficios\u0022: {\r\n      \u0022valeTransporte\u0022: {\r\n        \u0022valor\u0022: 0.0,\r\n        \u0022percentualDesconto\u0022: 0.0\r\n      },\r\n      \u0022valeAlimentacao\u0022: {\r\n        \u0022valor\u0022: 0.0,\r\n        \u0022percentualDesconto\u0022: 0.0\r\n      },\r\n      \u0022cestaBasica\u0022: {\r\n        \u0022valor\u0022: 0.0,\r\n        \u0022composicao\u0022: \u0022\u0022\r\n      }\r\n    },\r\n    \u0022encargosSociais\u0022: {\r\n      \u0022percentualINSS\u0022: 0.0,\r\n      \u0022percentualFGTS\u0022: 0.0,\r\n      \u0022outrosEncargos\u0022: [{\r\n        \u0022descricao\u0022: \u0022\u0022,\r\n        \u0022percentual\u0022: 0.0\r\n      }]\r\n    }\r\n  },\r\n  \u0022fiscalizacao\u0022: {\r\n    \u0022fiscalTitular\u0022: {\r\n      \u0022nome\u0022: \u0022\u0022,\r\n      \u0022matricula\u0022: \u0022\u0022\r\n    },\r\n    \u0022fiscalSubstituto\u0022: {\r\n      \u0022nome\u0022: \u0022\u0022,\r\n      \u0022matricula\u0022: \u0022\u0022\r\n    },\r\n    \u0022portariaDesignacao\u0022: \u0022\u0022\r\n  },\r\n  \u0022faturamentoPagamento\u0022: {\r\n    \u0022prazoApresentacaoNF\u0022: 0,\r\n    \u0022documentosObrigatorios\u0022: [\u0022\u0022],\r\n    \u0022prazoPagamentoAposAtesto\u0022: 0,\r\n    \u0022condicoesEspecificas\u0022: [\u0022\u0022],\r\n    \u0022criteriosRetencaoTributos\u0022: [{\r\n      \u0022tributo\u0022: \u0022\u0022,\r\n      \u0022percentual\u0022: 0.0,\r\n      \u0022baseCalculo\u0022: \u0022\u0022\r\n    }]\r\n  },\r\n  \u0022certidoes\u0022: {\r\n    \u0022listaCertidoes\u0022: [{\r\n      \u0022tipo\u0022: \u0022\u0022,\r\n      \u0022periodicidadeApresentacao\u0022: \u0022\u0022,\r\n      \u0022criteriosValidade\u0022: \u0022\u0022\r\n    }]\r\n  },\r\n  \u0022garantiasSeguros\u0022: {\r\n    \u0022garantiaContratual\u0022: {\r\n      \u0022valor\u0022: 0.0,\r\n      \u0022modalidade\u0022: \u0022\u0022,\r\n      \u0022vigencia\u0022: {\r\n        \u0022dataInicio\u0022: \u0022\u0022,\r\n        \u0022dataTermino\u0022: \u0022\u0022\r\n      }\r\n    },\r\n    \u0022seguros\u0022: [{\r\n      \u0022tipo\u0022: \u0022\u0022,\r\n      \u0022valor\u0022: 0.0,\r\n      \u0022cobertura\u0022: \u0022\u0022\r\n    }]\r\n  },\r\n  \u0022penalidadesSancoes\u0022: {\r\n    \u0022penalidades\u0022: [{\r\n      \u0022tipo\u0022: \u0022\u0022,\r\n      \u0022percentualMulta\u0022: 0.0,\r\n      \u0022condicoesAplicacao\u0022: \u0022\u0022\r\n    }]\r\n  },\r\n  \u0022observacoes\u0022: {\r\n    \u0022particularidades\u0022: [\u0022\u0022],\r\n    \u0022clausulasEspecificas\u0022: [\u0022\u0022],\r\n    \u0022termosAditivos\u0022: [{\r\n      \u0022numero\u0022: \u0022\u0022,\r\n      \u0022data\u0022: \u0022\u0022,\r\n      \u0022alteracoes\u0022: [\u0022\u0022]\r\n    }]\r\n  }\r\n}"
+    },
+    {
+      "Id": "LR1CF9EUtiHe",
+      "Name": "Regras de Verifica\u00E7\u00E3o Contratual",
+      "Content": "# Regras de Verifica\u00E7\u00E3o Contratual\r\n\r\n## 1. Verifica\u00E7\u00E3o da Nota Fiscal\r\n### Requisitos Contratuais\r\n- CNPJ do fornecedor deve corresponder exatamente ao registrado no contrato\r\n- Munic\u00EDpio do fornecedor deve ser id\u00EAntico ao estabelecido no contrato\r\n- Per\u00EDodo da presta\u00E7\u00E3o de servi\u00E7o deve estar dentro da vig\u00EAncia contratual\r\n- Servi\u00E7o executado deve estar em conformidade com:\r\n  - Objeto contratado (descri\u00E7\u00E3o exata)\r\n  - Itens especificados no contrato\r\n  - Valores acordados contratualmente\r\n\r\n## 2. Atesto e Relat\u00F3rio de Execu\u00E7\u00E3o\r\n### Verifica\u00E7\u00F5es Obrigat\u00F3rias\r\n- N\u00FAmero do contrato deve estar correto e completo\r\n- Vig\u00EAncia contratual deve estar atualizada\r\n- Dados completos da contratada devem corresponder ao contrato\r\n- Autoriza\u00E7\u00E3o expressa para pagamento deve estar presente\r\n- Atesto deve ser realizado exclusivamente por:\r\n  - Fiscal do Contrato designado, ou\r\n  - Substituto legal formalmente indicado\r\n\r\n## 3. Empenho\r\n### Conformidade com Contrato\r\n- Dados do Credor:\r\n  - CNPJ id\u00EAntico ao contrato\r\n  - Raz\u00E3o social exata\r\n  - Endere\u00E7o completo correspondente\r\n- Projeto/Atividade:\r\n  - Deve corresponder ao estabelecido no contrato\r\n  - C\u00F3digos e descri\u00E7\u00F5es devem ser id\u00EAnticos\r\n- Fonte de Recursos:\r\n  - Deve estar em conformidade com o contrato\r\n  - Classifica\u00E7\u00E3o or\u00E7ament\u00E1ria correspondente\r\n\r\n**Observa\u00E7\u00E3o Importante**: Os valores dos empenhos podem variar do Termo Contratual original, desde que devidamente justificados\r\n\r\n## 4. Liquida\u00E7\u00E3o\r\n### Elementos Contratuais\r\n- N\u00FAmero do contrato deve estar corretamente registrado no sistema\r\n- Vig\u00EAncia contratual deve estar atual e v\u00E1lida\r\n- Hist\u00F3rico deve conter obrigatoriamente:\r\n  - Tipo de despesa conforme contrato\r\n  - N\u00FAmero do contrato\r\n  - Vig\u00EAncia contratual\r\n  - N\u00FAmero do processo de pagamento\r\n  - Demais informa\u00E7\u00F5es contratuais pertinentes\r\n\r\n## 5. Benef\u00EDcios e Descontos\r\n### Vale Alimenta\u00E7\u00E3o\r\n- Descontos aplicados aos trabalhadores devem estar em conformidade com:\r\n  - Valores estabelecidos em contrato\r\n  - Percentuais acordados\r\n  - Bases de c\u00E1lculo definidas\r\n\r\n## 6. Conformidade Documental\r\n### Valida\u00E7\u00F5es Necess\u00E1rias\r\n- Documenta\u00E7\u00E3o do Fiscal do Contrato:\r\n  - Portaria de designa\u00E7\u00E3o v\u00E1lida\r\n  - Atribui\u00E7\u00F5es conforme contrato\r\n- Coordenadoria de Or\u00E7amentos e Conv\u00EAnio:\r\n  - Aprova\u00E7\u00F5es necess\u00E1rias\r\n  - Pareceres exigidos\r\n  - Valida\u00E7\u00F5es or\u00E7ament\u00E1rias\r\n\r\n## 7. Procedimentos Gerais\r\n### Regras Fundamentais\r\n- Toda documenta\u00E7\u00E3o deve estar dentro do per\u00EDodo de vig\u00EAncia contratual\r\n- Valores e servi\u00E7os devem corresponder ao estabelecido em contrato\r\n- Altera\u00E7\u00F5es contratuais devem estar:\r\n  - Formalmente documentadas\r\n  - Devidamente aprovadas\r\n  - Dentro dos limites legais\r\n- Respons\u00E1veis pela fiscaliza\u00E7\u00E3o devem estar:\r\n  - Formalmente designados\r\n  - Com delega\u00E7\u00F5es atualizadas\r\n  - Habilitados para a fun\u00E7\u00E3o\r\n\r\n## 8. Campos Obrigat\u00F3rios do Contrato\r\n### Dados da Contratada\r\n- CNPJ (completo e v\u00E1lido)\r\n- Raz\u00E3o social\r\n- Nome fantasia (se houver)\r\n- Endere\u00E7o completo:\r\n  - Munic\u00EDpio\r\n  - Estado\r\n  - CEP\r\n- Dados banc\u00E1rios:\r\n  - Banco\r\n  - Ag\u00EAncia\r\n  - Conta\r\n\r\n### Dados Contratuais\r\n- N\u00FAmero do contrato\r\n- Datas:\r\n  - Assinatura\r\n  - In\u00EDcio da vig\u00EAncia\r\n  - T\u00E9rmino da vig\u00EAncia\r\n- Valores:\r\n  - Global\r\n  - Mensal (se aplic\u00E1vel)\r\n- N\u00FAmero do processo original\r\n\r\n### Objeto e Escopo\r\n- Descri\u00E7\u00E3o detalhada do objeto\r\n- Especifica\u00E7\u00F5es:\r\n  - Servi\u00E7os/produtos\r\n  - Quantidades\r\n  - Unidades de medida\r\n  - Valores unit\u00E1rios\r\n- Periodicidade da execu\u00E7\u00E3o\r\n\r\n### Informa\u00E7\u00F5es Or\u00E7ament\u00E1rias\r\n- Projeto/Atividade\r\n- Fonte de recursos\r\n- Natureza da despesa:\r\n  - Elemento\r\n  - Subelemento (quando aplic\u00E1vel)\r\n\r\n## Observa\u00E7\u00F5es Finais\r\n1. Todas as verifica\u00E7\u00F5es devem ser realizadas **antes** do processamento do pagamento\r\n2. Diverg\u00EAncias devem ser:\r\n   - Documentadas imediatamente\r\n   - Comunicadas aos respons\u00E1veis\r\n   - Tratadas conforme procedimentos estabelecidos\r\n3. Modifica\u00E7\u00F5es contratuais devem ser consideradas nas verifica\u00E7\u00F5es\r\n4. Manter registro audit\u00E1vel de todas as verifica\u00E7\u00F5es realizadas\r\n5. Em caso de d\u00FAvidas, sempre consultar o instrumento contratual original"
+    }
+  ],
+  "AIModel": 0,
+  "apiKey": null
+}
